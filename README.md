@@ -21,7 +21,7 @@ L'administrateur pourra afficher la liste de tous les dons.
 L'administrateur pourra inscrire un nouvel administrateur (Non fonctionnel).
 
 
-Lien vers le site : http://tuxa.sme.utc/~na17a052/leo/
+Lien vers le site : http://tuxa.sme.utc/~nf17p052/leo/na18/
 En étant connecté au réseau UTC !
 
 Léo Przewlocki.
